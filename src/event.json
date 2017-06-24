@@ -1,26 +1,26 @@
 {
   "session": {
-    "sessionId": "SessionId.47284b50-3251-41a9-bd8d-b1f583520048",
+    "sessionId": "SessionId.04aedcde-3cf0-4881-a039-c00ab99cb636",
     "application": {
-      "applicationId": "amzn1.ask.skill.dec3c082-135d-4d1d-8e90-c3a076e9875b"
+      "applicationId": "amzn1.ask.skill.9e8c95bd-0202-4a9d-851c-69495d16e2e9"
     },
     "attributes": {},
     "user": {
-      "userId": "amzn1.ask.account.AG5YRXPNSCL7E3KDBPAMU2G3A5KDFZB75HVTB3HUBWQEFZBBBVLM46UD3SLRURT5KFX6JHQVEZWIXHTT3T37NFEFUNIDYAZDITHLD7RHAC4TGAAOROAS2NON7YEQRVAECLOOAPEJ35ABW7L246BGSH5RVIHFDTSSCGDMM6TJG623KOPLFWGXAVEYQMLZMX3K3LEUVTDU3RIQLGQ"
+      "userId": "amzn1.ask.account.AHJWQGVV6MF5NGZUZGIWHYIGOID37UWR5SPPSCALCUAKAYNVEK4JPMY4ILWG3SD72P47WZPZ3OEXDVC4DKCOCCBTSAPPPFBGJXEZ63DRBW5YMFMVOBVJXOCXKWOEC5RVXP3OZD7IL5YLKNUTTAC7XX562HVG3XW667LZWLL6LDDETKFP6X6CJAAMN27HLYHB6HJPJKOB6UWIR6A"
     },
     "new": true
   },
   "request": {
     "type": "IntentRequest",
-    "requestId": "EdwRequestId.35b5d501-42b1-4774-b78e-5e231d18dcc0",
+    "requestId": "EdwRequestId.e0a7361b-f829-4152-865a-6c3c88185413",
     "locale": "en-US",
-    "timestamp": "2017-06-20T21:15:09Z",
+    "timestamp": "2017-06-24T01:01:14Z",
     "intent": {
       "name": "getSpeakerIntent",
       "slots": {
         "date": {
           "name": "date",
-          "value": "W25"
+          "value": ""
         }
       }
     }
