@@ -1,0 +1,29 @@
+{
+  "session": {
+    "sessionId": "SessionId.47284b50-3251-41a9-bd8d-b1f583520048",
+    "application": {
+      "applicationId": "amzn1.ask.skill.dec3c082-135d-4d1d-8e90-c3a076e9875b"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AG5YRXPNSCL7E3KDBPAMU2G3A5KDFZB75HVTB3HUBWQEFZBBBVLM46UD3SLRURT5KFX6JHQVEZWIXHTT3T37NFEFUNIDYAZDITHLD7RHAC4TGAAOROAS2NON7YEQRVAECLOOAPEJ35ABW7L246BGSH5RVIHFDTSSCGDMM6TJG623KOPLFWGXAVEYQMLZMX3K3LEUVTDU3RIQLGQ"
+    },
+    "new": true
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.35b5d501-42b1-4774-b78e-5e231d18dcc0",
+    "locale": "en-US",
+    "timestamp": "2017-06-20T21:15:09Z",
+    "intent": {
+      "name": "getSpeakerIntent",
+      "slots": {
+        "date": {
+          "name": "date",
+          "value": "W25"
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
